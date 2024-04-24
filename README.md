@@ -1,44 +1,28 @@
 # Anon - An eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-## Demo
+# [Anon E-commerce]
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+## Description
+[Anon E-commerce] is an online platform that provides users with a seamless shopping experience. Our website offers a wide range of products across various categories, ensuring that customers can find everything they need in one place.
 
-## Prerequisites
+## Features
+- **User Authentication:** Secure user authentication system to ensure account privacy and security.
+- **Product Catalog:** Browse through a diverse catalog of products, including electronics, fashion, home decor, and more.
+- **Search and Filter:** Easily find products using search functionality and filter options.
+- **Product Details:** View detailed information about each product, including images, descriptions, specifications, and reviews.
+- **Shopping Cart:** Add products to your shopping cart for convenient purchasing.
+- **Checkout Process:** Streamlined checkout process with multiple payment options for a smooth transaction.
+- **Order Tracking:** Track the status of your orders from purchase to delivery.
+- **User Profile:** Manage your account settings, view order history, and update personal information.
+- **Responsive Design:** Mobile-friendly interface for a seamless shopping experience on any device.
 
-Before you begin, ensure you have met the following requirements:
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Anon
 
-To install **Anon**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
